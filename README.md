@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Javascript software development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any Python, Django or Web Design Projects related to Artificial Intelligence or Virtual Reality
-- 📫 How to reach me ...
+- 📫 How to reach me:
      email: absknv@gmail.com
      linkedin: linkedin.com/in/abaskanov
 
